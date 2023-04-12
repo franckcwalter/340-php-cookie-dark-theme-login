@@ -4,7 +4,10 @@ require "header.php";
 
 ?>
 
-<h1>West Coast</h1>
+<link rel="stylesheet" href="style/dark.css">
+
+
+<h1>WEST COAST</h1>
 </body>
 
 </html>
