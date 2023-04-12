@@ -8,6 +8,7 @@ require "header.php";
 
 
 <h1>WEST COAST</h1>
+
 </body>
 
 </html>

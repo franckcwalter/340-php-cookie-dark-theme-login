@@ -9,6 +9,7 @@ h1 {
     margin-right: auto;
     font-family: Arial, Helvetica, sans-serif;
     color: #F0EFEE;
+    text-align: center;
 }
 
 nav {
@@ -22,4 +23,12 @@ nav button {
     height: 30px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+#colorChangeButton {
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
