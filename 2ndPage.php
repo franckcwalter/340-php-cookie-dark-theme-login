@@ -1,17 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+require "header.php";
 
-</head>
+?>
 
-<body>
-    <h1>West Side</h1>
+<h1>West Coast</h1>
 </body>
 
 </html>
-
